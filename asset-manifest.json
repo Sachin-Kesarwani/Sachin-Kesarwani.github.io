@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.bc1ba2d2.css",
-    "main.js": "/static/js/main.ef52e649.js",
+    "main.css": "/static/css/main.aa966de0.css",
+    "main.js": "/static/js/main.c2dc33c1.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/worldBook.jpg": "/static/media/worldBook.18755c40df2bca33ebf1.jpg",
+    "static/media/traviez_web.png": "/static/media/traviez_web.0888f997cce0276574d5.png",
+    "static/media/traviez_app.png": "/static/media/traviez_app.3be413ead3623d8ec0fc.png",
     "static/media/fitfactory.jpg": "/static/media/fitfactory.fe2bd75e048bdef3b455.jpg",
     "static/media/lavishLook.jpg": "/static/media/lavishLook.08344ca3ddc795dff7b6.jpg",
     "static/media/eyekart.jpg": "/static/media/eyekart.af68c824358d58e301a0.jpg",
     "static/media/monday.jpg": "/static/media/monday.b7666428a969be6f2600.jpg",
     "static/media/mypic.jpg": "/static/media/mypic.1659a1b90b0a67d63c35.jpg",
-    "static/media/resume.pdf": "/static/media/resume.31400a6524442925c521.pdf",
+    "static/media/resume.pdf": "/static/media/resume.ad02b8d3416558c63275.pdf",
+    "static/media/Sachin_Kesarwani_Resume.pdf": "/static/media/Sachin_Kesarwani_Resume.cef3598189a39aa28e3c.pdf",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.bc1ba2d2.css.map": "/static/css/main.bc1ba2d2.css.map",
-    "main.ef52e649.js.map": "/static/js/main.ef52e649.js.map",
+    "main.aa966de0.css.map": "/static/css/main.aa966de0.css.map",
+    "main.c2dc33c1.js.map": "/static/js/main.c2dc33c1.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc1ba2d2.css",
-    "static/js/main.ef52e649.js"
+    "static/css/main.aa966de0.css",
+    "static/js/main.c2dc33c1.js"
   ]
 }
