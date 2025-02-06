@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.5ac402c3.css",
-    "main.js": "/static/js/main.f69c7366.js",
+    "main.js": "/static/js/main.719009ef.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Sachin_Kesarwani_Resume.pdf": "/static/media/Sachin_Kesarwani_Resume.ee4d0fe905c4a5df7c42.pdf",
     "static/media/worldBook.jpg": "/static/media/worldBook.18755c40df2bca33ebf1.jpg",
     "static/media/traviez_web.png": "/static/media/traviez_web.0888f997cce0276574d5.png",
     "static/media/traviez_app.png": "/static/media/traviez_app.3be413ead3623d8ec0fc.png",
@@ -11,15 +12,14 @@
     "static/media/eyekart.jpg": "/static/media/eyekart.af68c824358d58e301a0.jpg",
     "static/media/monday.jpg": "/static/media/monday.b7666428a969be6f2600.jpg",
     "static/media/mypic.jpg": "/static/media/mypic.1659a1b90b0a67d63c35.jpg",
-    "static/media/Sachin_Kesarwani_Resume.pdf": "/static/media/Sachin_Kesarwani_Resume.cef3598189a39aa28e3c.pdf",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.5ac402c3.css.map": "/static/css/main.5ac402c3.css.map",
-    "main.f69c7366.js.map": "/static/js/main.f69c7366.js.map",
+    "main.719009ef.js.map": "/static/js/main.719009ef.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ac402c3.css",
-    "static/js/main.f69c7366.js"
+    "static/js/main.719009ef.js"
   ]
 }
